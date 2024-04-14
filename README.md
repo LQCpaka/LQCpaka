@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm LQC - EoQCi - LeQuocCan</h1>
+<h3 align="center">You can call me whatever you want</h3>
 
-<!--
-**LQCpaka/LQCpaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **🔭 I'm currently a freelancer**
+- **⚡ But which one I working for? Well, I'm a game translator, game dev(not really), moder(decompile other game), website dev**
 
-Here are some ideas to get you started:
+<h1 align="center">My public products(will show you guys my private someday)</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Dark-wood-Viet-Hoa**]([https://discordapp.com/users/1109382376762654810](https://www.facebook.com/photo/?fbid=257370306824160&set=a.174677478426777)) - Im gonna update the patch someday, its outdated
+- [**Terraria-Viet-Hoa**](https://steamcommunity.com/sharedfiles/filedetails/?id=3014659541) - This game made me tired, code and everything is hard but not really hard, lmao
+
+
+
+<h1 align="center">My Skill</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,nextjs,js,html,css,)](https://skillicons.dev)
