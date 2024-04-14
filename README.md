@@ -2,6 +2,7 @@
 <h3 align="center">You can call me whatever you want</h3>
 
 - **🔭 I'm currently a freelancer**
+- - **🔭 I'm also a GameDev**
 - **⚡ But which one I working for? Well, I'm a game translator, game dev(not really), moder(decompile other game), website dev**
 
 <h1 align="center">My public products(will show you guys my private someday)</h1>
@@ -13,4 +14,6 @@
 
 <h1 align="center">My Skill</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,nextjs,js,html,css,)](https://skillicons.dev)
+<h1 align="center">[![My Skills](https://skillicons.dev/icons?i=cs,nextjs,js,html,css,)](https://skillicons.dev)</h1>
+
+
