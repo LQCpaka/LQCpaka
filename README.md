@@ -1,9 +1,10 @@
-<h1 align="center">Hello 👋, I'm LQC - EoQCi - LeQuocCan</h1>
+<h1 align="center">Sup!👋, I'm LQC - EoQCi - LeQuocCan</h1>
 <h3 align="center">You can call me whatever you want</h3>
 
 - **🔭 I'm currently a freelancer**
 - **🔭 I'm also a GameDev - Unity Dev**
 - **⚡ But which one I working for? Well, I'm a game translator, game dev(not really), moder(decompile other game), website dev**
+- **✨I also working for a starup company✨**
 
 <h1 align="center">My public products(will show you guys my private someday)</h1>
 
@@ -13,7 +14,7 @@
 
 
 
-<h1 align="center">⚡ My LOVE Programming Language ⚡</h1>
+<h1 align="center">✨My Beloved Programming Language✨</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +22,7 @@
   </a>
 </p>
 
-<h1 align="center">MY FAVORITE ENGINE</h1>
+<h1 align="center">✨MY FAVORITE ENGINE✨</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
