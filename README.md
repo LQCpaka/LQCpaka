@@ -14,6 +14,6 @@
 
 <h1 align="center">My Skill</h1>
 
-<h1 align="center">[![My Skills](https://skillicons.dev/icons?i=cs,nextjs,js,html,css,)](https://skillicons.dev)</h1>
+<h1 align="center"> [![My Skills](https://skillicons.dev/icons?i=cs,nextjs,js,html,css,)](https://skillicons.dev) </h1>
 
 
