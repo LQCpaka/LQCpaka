@@ -10,7 +10,7 @@
 
 - [**Dark-wood-Viet-Hoa**](https://www.facebook.com/photo/?fbid=257370306824160&set=a.174677478426777) - Im gonna update the patch someday, its outdated
 - [**Terraria-Viet-Hoa**](https://steamcommunity.com/sharedfiles/filedetails/?id=3014659541) - This game made me tired, code and everything is hard but not really hard, lmao
-- **Where My Game, I only showing mod product? Nah man, its not ready to release yet, see you guys soon, last 2025 atleast**
+- **Why I'm not upload any my game yet? And why I only showing mod products? Nah man, its not ready to release yet, see you guys soon, last 2025 atleast**
 
 
 
