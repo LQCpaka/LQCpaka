@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,js,php,nodejs" />
+      <img src="https://skillicons.dev/icons?i=cs,js,go,ts,nodejs" />
   </a>
 </p>
 
