@@ -10,3 +10,11 @@
   </a>
 </p>
 
+<h1 align="center">✨IDE And Stuff I Using✨</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,neovim,mongodb,postgres,redis,aws,cloudflare,vercel" />
+  </a>
+</p>
+
