@@ -1,4 +1,4 @@
-<h1 align="center">Sup!👋, I'm LQC - EoQCi - LeQuocCan</h1>
+<h1 align="center">Sup!👋, I'm LQC - EoQCi - Le Quoc Can</h1>
 <h3 align="center">You can call me whatever you want</h3>
 
 
