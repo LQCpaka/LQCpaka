@@ -18,3 +18,8 @@
   </a>
 </p>
 
+<h1 align="center">✨Morph Workshop Owner✨</h1>
+<br>
+<p background-color="white" align="center">
+  <img style="filter: invert(100%) brightness(200%)" src="https://morphworkshop.com/morphworkshop-logo.svg"/>
+</p>
