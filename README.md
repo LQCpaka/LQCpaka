@@ -9,17 +9,43 @@
 
 ## ⚙️ Tech Stack
 
-#### Progamming Languages:
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500)
-![Go](https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A) -
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D4B800)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A5FAD)
-#### Database:
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a3a6b)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e5c1e)
-![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white&labelColor=99005f)
-#### Framework:
-![Axum](https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500)
-![Gin](https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A) <br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=333333)
-![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=4FC4CF&labelColor=1a2f4a)
+<table>
+  <tr>
+    <td><b>🦀 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
+      <img src="https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" /> -
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D4B800" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A5FAD" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a3a6b" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e5c1e" />
+      <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white&labelColor=99005f" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔧 Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
+      <img src="https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" /> -
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=333333" />
+      <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=4FC4CF&labelColor=1a2f4a" />
+    </td>
+  </tr>
+  <tr>
+  <td><b>☁️ Services</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=c47500" />
+    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=c47500" />
+    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=2d4ecc" />
+    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white&labelColor=cc1f63" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
+    <img src="https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
+    <img src="https://img.shields.io/badge/DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
+  </td>
+</tr>
+</table>
