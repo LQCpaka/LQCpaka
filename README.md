@@ -48,6 +48,14 @@
     <img src="https://img.shields.io/badge/DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=b35a00" />
   </td>
 </tr>
+  <tr>
+  <td><b>➕ Others</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/bevy engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&&labelColor=FFA500"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  </td>
+</tr>
 </table>
 
 ## 📈 Stats
