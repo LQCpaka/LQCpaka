@@ -52,5 +52,8 @@
 
 ## 📈 Stats
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LQCpaka)](https://github.com/anuraghazra/github-readme-stats) --> 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LQCpaka&theme=highcontrast)](https://git.io/streak-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api?username=LQCpaka&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api/top-langs/?username=LQCpaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=LQCpaka&theme=tokyonight&hide_border=true" />
+</p>
