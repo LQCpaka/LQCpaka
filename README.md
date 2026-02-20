@@ -21,6 +21,7 @@
     <td><b>🔧 Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
+      <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=1a8f9e" />
       <img src="https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" />
     </td>
   </tr>
