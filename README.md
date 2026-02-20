@@ -18,19 +18,19 @@
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Database</b></td>
+    <td><b>🔧 Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
+      <img src="https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a3a6b" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e5c1e" />
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&&labelColor=FFA500"/>
       <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white&labelColor=99005f" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🔧 Framework</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
-      <img src="https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" />
     </td>
   </tr>
   <tr>
