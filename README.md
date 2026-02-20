@@ -50,6 +50,7 @@
   <td><b>➕ Others</b></td>
   <td>
     <img src="https://img.shields.io/badge/bevy engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white&labelColor=6b0000" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </td>
 </tr>
