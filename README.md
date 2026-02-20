@@ -14,9 +14,7 @@
     <td><b>🦀 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
-      <img src="https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" /> -
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D4B800" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A5FAD" />
+      <img src="https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" />
     </td>
   </tr>
   <tr>
@@ -32,9 +30,7 @@
     <td><b>🔧 Framework</b></td>
     <td>
       <img src="https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
-      <img src="https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" /> -
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=333333" />
-      <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=4FC4CF&labelColor=1a2f4a" />
+      <img src="https://img.shields.io/badge/Gin-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" />
     </td>
   </tr>
   <tr>
