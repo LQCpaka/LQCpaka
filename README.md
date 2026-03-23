@@ -1,6 +1,6 @@
 <h2 align="center">Hi there ✨ - My name is LQC</h2>
 
-<p>I'm LQC. I'm working as a <b>Backend Developer</b>, using Go, Rust (sometimes Js/Ts). I like to making things, creating stuffs. I do love playing video games. I've played a lot types of games. Beside that, I also translating games, I've done some works like:</p>
+<p>I'm LQC. I'm working as a <b>Backend Developer</b>, using <b>Go, Rust</b> (sometimes Js/Ts). I like to making things, creating stuffs. I do love playing video games. I've played a lot types of games. Beside that, I also translating games, I've done some works like:</p>
 
 * **[Terraria Viet Hoa](https://steamcommunity.com/sharedfiles/filedetails/?id=3014659541) - (6,326⭐	Current Subscribers) (This is my Terraria - vi-VN translation support)**
 * **[Terraria Font Generator](https://github.com/LQCpaka/TerrariaFontGenerator-CLI) - (XNA framework [C#]- I using some XNA DLLs and ReLogic pipeline to hanlde XNB fonts)**
