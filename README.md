@@ -11,14 +11,14 @@
 
 <table align="center">
   <tr>
-    <td><b>🦀 Languages</b></td>
+    <td><b> Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
       <img src="https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=go&logoColor=white&labelColor=00728A" />
     </td>
   </tr>
   <tr>
-    <td><b>🔧 Frameworks</b></td>
+    <td><b> Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/Axum-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=8B2500" />
       <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=1a8f9e" />
@@ -26,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Databases</b></td>
+    <td><b> Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a3a6b" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e5c1e" />
@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-  <td><b>☁️ Services</b></td>
+  <td><b> Services</b></td>
   <td>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=c47500" />
     <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=c47500" />
@@ -47,7 +47,7 @@
   </td>
 </tr>
   <tr>
-  <td><b>➕ Others</b></td>
+  <td><b> Others</b></td>
   <td>
     <img src="https://img.shields.io/badge/bevy engine-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white&labelColor=000000"/>
     <img src="https://img.shields.io/badge/OpenGL-5587A6?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2e4f6b" />
