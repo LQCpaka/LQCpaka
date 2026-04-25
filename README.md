@@ -3,7 +3,7 @@
 <p>I'm LQC. I'm working as a <b>Backend Developer</b>, using <b>Go, Rust</b> (sometimes Js). I like to making things, creating stuffs. I do love playing video games. I've played a lot types of games. Beside that, I also translating games, I've done some works like:</p>
 
 * **[Terraria Viet Hoa](https://steamcommunity.com/sharedfiles/filedetails/?id=3014659541) - (6,326⭐	Current Subscribers) (This is my Terraria - vi-VN translation support)**
-* **[Terraria Font Generator](https://github.com/LQCpaka/TerrariaFontGenerator-CLI) - (XNA framework [C#]- I using some XNA DLLs and ReLogic pipeline to hanlde XNB fonts)**
+* **[Terraria Font Generator](https://github.com/eoqci/TerrariaFontGenerator-CLI) - (XNA framework [C#]- I using some XNA DLLs and ReLogic pipeline to hanlde XNB fonts)**
 * **[Sector Zero](https://store.steampowered.com/app/2352050/SECTOR_ZERO/) - (This game is release on Steam, that I working as translator role. en-US, vi-VN)**
 * There are more of works but might take so long...
 
@@ -59,7 +59,7 @@
 ## 📈 Stats
 
 <p align="center">
-  <!-- <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api?username=LQCpaka&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /> -->
-  <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api/top-langs/?username=LQCpaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=typescript,makefile,tex" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=LQCpaka&theme=tokyonight&hide_border=true" />
+  <!-- <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api?username=eoqci&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /> -->
+  <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api/top-langs/?username=eoqci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=typescript,makefile,tex" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=eoqci&theme=tokyonight&hide_border=true" />
 </p>
