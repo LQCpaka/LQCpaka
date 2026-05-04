@@ -8,7 +8,7 @@
 * There are more of works but might take so long...
 -->
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -57,7 +57,7 @@
 </tr>
 </table>
 
-## 📈 Stats
+## Stats
 
 <p align="center">
   <!-- <img height="180em" src="https://github-readme-stats-three-beige-56.vercel.app/api?username=eoqci&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /> -->
