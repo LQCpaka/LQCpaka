@@ -1,4 +1,4 @@
-<h2 align="center">Hi there ✨ - My name is LQC</h2>
+<h2 align="center">Hi there ✨ - My name is LQC (EOQCI)</h2>
 
 <p>I'm LQC. I'm working as a <b>Backend Developer</b>, using <b>Go, Rust</b> (sometimes Js). Especially this time, I starting to moving on, Rust gonna be my next place to stay. this  I like to making things, creating stuffs. I do love playing video games. I've played a lot types of games.</p>
   <!--
