@@ -1,12 +1,7 @@
 <h2 align="center">Hi there ✨ - My name is LQC (EOQCI)</h2>
 
 <p>I'm LQC. I'm working as a <b>Backend Developer</b>, using <b>Go, Rust</b> (sometimes Js). Especially this time, I starting to moving on, Rust gonna be my next place to stay. this  I like to making things, creating stuffs. I do love playing video games. I've played a lot types of games.</p>
-  <!--
-* **[Terraria Viet Hoa](https://steamcommunity.com/sharedfiles/filedetails/?id=3014659541) - (6,326⭐	Current Subscribers) (This is my Terraria - vi-VN translation support)**
-* **[Terraria Font Generator](https://github.com/eoqci/TerrariaFontGenerator-CLI) - (XNA framework [C#]- I using some XNA DLLs and ReLogic pipeline to hanlde XNB fonts)**
-* **[Sector Zero](https://store.steampowered.com/app/2352050/SECTOR_ZERO/) - (This game is release on Steam, that I working as translator role. en-US, vi-VN)**
-* There are more of works but might take so long...
--->
+ 
 
 ## Tech Stack
 
